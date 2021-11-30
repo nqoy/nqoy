@@ -11,7 +11,7 @@ I'm Noy Benbenishty, a 3rd year computer sience sudent.
 - 🌱 I’m currently learning Azure fundamentals
 - 📫 How to reach me: nqoy132@gmail.com.
 - 💬 Ask me about anything :)
-- ⚡ Fun fact: I love playing games and workout alike.
+- ⚡ Fun fact: I love playing video games and workout alike.
 
 #### Top Technologies
 
