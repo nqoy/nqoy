@@ -17,7 +17,7 @@ I'm Noy Benbenishty, a 3rd year computer sience sudent.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![.NET Badge](https://img.shields.io/badge/-.NET-61DBFB?style=for-the-badge&labelColor=black&logo=Csharp&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=Python&logoColor=007acc)](#) [![Android Studio Badge](https://img.shields.io/badge/-AndroidStudio-3C873A?style=for-the-badge&labelColor=black&logo=AndroidStudio&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![.NET Badge](https://img.shields.io/badge/-.NET-61DBFB?style=for-the-badge&labelColor=black&logo=Csharp&logoColor=61DBFB)](#) [![Java Badge](https://img.shields.io/badge/-Java-F0DB4F?style=for-the-badge&labelColor=black&logo=java&logoColor=F0DB4F)](#) [![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=Python&logoColor=007acc)](#) [![Android Studio Badge](https://img.shields.io/badge/-Android-3C873A?style=for-the-badge&labelColor=black&logo=AndroidStudio&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <br />
 <br />
