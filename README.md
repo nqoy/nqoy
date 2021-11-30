@@ -2,7 +2,7 @@
 
 I'm Noy Benbenishty, a 3rd year computer sience sudent.
 
-[![Facebook Badge](https://img.shields.io/badge/-Noy Benbenishty-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/noy.benbenishty/)](https://facebook.com/noy.benbenishty/) [![Linkedin Badge](https://img.shields.io/badge/-Noy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noy-benbenishty/) [![Mail Badge](https://img.shields.io/badge/-nqoy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nqoy132@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-NoyBenbenishty-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/noy.benbenishty/)](https://facebook.com/noy.benbenishty/) [![Linkedin Badge](https://img.shields.io/badge/-Noy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noy-benbenishty/) [![Mail Badge](https://img.shields.io/badge/-nqoy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nqoy132@gmail.com)
 
 <!-- TODO:  -->
 
