@@ -4,12 +4,14 @@ I'm Noy Benbenishty, 3rd year Computer Sience student.
 
 [![Facebook Badge](https://img.shields.io/badge/-NoyBenbenishty-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/noy.benbenishty/)](https://facebook.com/noy.benbenishty/) [![Linkedin Badge](https://img.shields.io/badge/-Noy-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nqoy/) [![Mail Badge](https://img.shields.io/badge/-nqoy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:nqoy132@gmail.com)
 
+
 - 🔭 Currently looking for a job
 - :computer: Most used line of code as of today `git commit -m "First Commit"`
 - 🌱 I’m currently learning Azure fundamentals
 - 📫 How to reach me: nqoy132@gmail.com.
 - 💬 Ask me about anything :)
 - ⚡ Fun fact: I love playing video games and workout alike.
+
 
 #### Top Technologies
 
