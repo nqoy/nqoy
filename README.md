@@ -28,7 +28,7 @@ I'm Noy Benbenishty, a 3rd year computer sience sudent.
 
 <br >
 
-I love learning new things and To expand my knowledge limits.
+I love learning new things and expanding my knowledge limits.
 
 <!--
 #### Bizness
