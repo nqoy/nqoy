@@ -7,7 +7,7 @@ I'm Noy Benbenishty, a 3rd year computer sience sudent.
 <!-- TODO:  -->
 
 - 🔭 Currently looking for a job
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Most used line of code of today `git commit -m "First Commit"`
 - 🌱 I’m currently learning Azure fundamentals
 - 📫 How to reach me: nqoy132@gmail.com.
 - 💬 Ask me about anything :)
