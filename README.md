@@ -6,11 +6,11 @@ I'm Noy Benbenishty, 3rd year Computer Sience student.
 
 
 - 🔭 Currently looking for a job
-- :computer: Most used line of code as of today `git commit -m "First Commit"`
-- 🌱 I’m currently learning Azure fundamentals
+- 💻 Most used line of code as of today `git commit -m "First Commit"`
+- 👨‍🎓 I’m currently learning Azure fundamentals
 - 📫 How to reach me: nqoy132@gmail.com.
 - 💬 Ask me about anything :)
-- ⚡ Fun fact: I love playing video games and workout alike.
+- 🍀 Fun fact: I love playing video games and workout alike.
 
 
 #### Technologies
@@ -27,24 +27,3 @@ I'm Noy Benbenishty, 3rd year Computer Sience student.
 <br >
 
 I love learning new things and expanding my knowledge limits.
-
-<!--
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: nqoy132@gmail.com
-
-### Hi there 👋
-
-**nqoy/nqoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
