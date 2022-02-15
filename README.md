@@ -7,7 +7,7 @@ I'm Noy Benbenishty, 3rd year Computer Sience student.
 
 - 🔭 Currently looking for a job
 - 💻 Most used line of code as of today `git commit -m "First Commit"`
-- 👨‍🎓 I’m currently learning Azure fundamentals
+- 👨‍🎓 I’m currently learning AWS fundamentals
 - 📫 How to reach me: nqoy132@gmail.com.
 - 💬 Ask me about anything :)
 - 🍀 Fun fact: I love playing video games and workout alike.
